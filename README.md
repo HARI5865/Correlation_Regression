@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+# Name :N Hariharasudhan
+# Reg no : 212224040102
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
